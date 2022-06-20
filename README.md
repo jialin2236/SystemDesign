@@ -8,7 +8,7 @@ we just need to map them to the right terminology, and learn any additional
 aspects of each concept that we're not familiar with. (I ordered them based on 
 my opinion of read/watch sequence)
 
-[!great breadth coverage and analogies]("https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX") \
+[great breadth coverage and analogies]("https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX") 
 [lecture about scalability]("https://www.youtube.com/watch?v=-W9F__D3oY4") \
 [with comprehensive introduction and examples]("https://github.com/donnemartin/system-design-primer/) \
 [very useful discussion template]("https://leetcode.com/company/facebook/discuss/229177/My-System-Design-Template")
